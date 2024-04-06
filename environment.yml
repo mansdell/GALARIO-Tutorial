@@ -18,3 +18,4 @@ dependencies:
   - pip
   - emcee
   - corner
+  - galario
