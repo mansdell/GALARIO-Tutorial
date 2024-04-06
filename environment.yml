@@ -1,0 +1,18 @@
+name: galarioenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pytest
+  - cython
+  - sphinx
+  - jupyter
+  - matplotlib
+  - numpy
+  - requests
+  - pandas
+  - scipy
+  - xarray
+  - astropy
+  - pip
