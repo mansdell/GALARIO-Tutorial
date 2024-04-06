@@ -16,6 +16,6 @@ dependencies:
   - xarray
   - astropy
   - pip
-  - emcee
-  - corner
+  - emcee=2.2.1
+  - corner=2.0.1
   - tqdm
