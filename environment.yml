@@ -16,6 +16,3 @@ dependencies:
   - xarray
   - astropy
   - pip
-  - emcee
-  - corner
-  - galario
